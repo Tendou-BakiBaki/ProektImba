@@ -8,6 +8,7 @@
     $time = $time_end - $time_start;
 
   echo "Ничего не делал $time секунд\n";
+phpinfo();
 ?>
 
 <!DOCTYPE html>
